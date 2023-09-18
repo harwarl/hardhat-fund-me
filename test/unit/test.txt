@@ -1,0 +1,8 @@
+Unit test
+- done locally to test the functions of the contract
+- done on local hardhat
+- also done on forked hardhat
+
+
+Staging test
+- done on testnet
